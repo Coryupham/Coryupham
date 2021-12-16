@@ -6,6 +6,7 @@
   <img alt="git" src="assets/git.svg" style="padding-top: 100px;width:70px;height:40px;">
   <img alt="JavaScript" height="32" width="32" src="assets/javascript.png">
   <img alt="Visual Studio Code" height="32" width="32" src="assets/vscode.png">
+  <img alt="Wordpress" height="32" width="32" src="assets/wordpress.png">
 </p>
 
 

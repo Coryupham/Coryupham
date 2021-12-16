@@ -1,7 +1,1 @@
-This is my read me
-Pleas Update!
-
-Testing 123
-
-
-Testing in reverse!
+Hello, my name is Cory and this is my GitHub

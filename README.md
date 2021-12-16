@@ -1,6 +1,13 @@
-Hello, my name is Cory and this is my GitHub
+# Hi there 👋 My name is Cory and this is my GitHub!
 
-**Find me here:**
+## 🛠  Technologies and tools
 
-[![Twitter](assets/twitter.png)](https://twitter.com/CoryUpham)
-[![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/coryupham/)
+
+
+
+## 🔍  Where you can find me
+
+<p align="left">
+  <a href="https://twitter.com/CoryUpham"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+  <a href="https://www.linkedin.com/in/coryupham/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
+</p>

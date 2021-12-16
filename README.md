@@ -3,7 +3,7 @@
 ## 🛠  Technologies and tools
 
 <p align="left">
-  <img style="padding-top: 10px;" alt="git" height="52" width="52" src="assets/git.svg">
+  <img style="padding-top: 100px;" alt="git" height="52" width="52" src="assets/git.svg">
   <img alt="JavaScript" height="32" width="32" src="assets/javascript.png">
 </p>
 

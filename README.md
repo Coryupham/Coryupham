@@ -20,13 +20,6 @@
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
 </p>
 
-
-If you want to help out a broke college kid get through the semester!
-
-<a href="https://buymeacoffee.com/Coryu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-
 ## 🔍  Where you can find me
 
 <p align="left">
@@ -34,3 +27,8 @@ If you want to help out a broke college kid get through the semester!
   height="32" width="32" src="assets/twitter.svg"></a>
   <a href="https://www.linkedin.com/in/coryupham/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
 </p>
+
+
+If you want to help out a broke college kid get through the semester!
+
+<a href="https://buymeacoffee.com/Coryu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>

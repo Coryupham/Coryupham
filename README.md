@@ -23,6 +23,5 @@
 ## 🔍  Where you can find me
 
 <p align="left">
-  height="32" width="32" src="assets/twitter.svg"></a>
   <a href="https://www.linkedin.com/in/coryupham/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
 </p>
